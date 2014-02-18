@@ -23,7 +23,7 @@ angular.module('konami', []).directive("konami", ['$document', function($documen
                 });
 
                 scope.$on('$destroy', function() {
-                    $(document).off('keydown.konami' + rand);
+                    $($document).off('keydown.konami' + rand);
                 });
             }
         };
