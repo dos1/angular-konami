@@ -1,0 +1,22 @@
+{
+  "name": "angular-konami",
+  "main": "angular-konami.min.js",
+  "version": "0.2.0",
+  "homepage": "https://github.com/dos1/angular-konami",
+  "authors": [
+    "Sebastian Krzyszkowiak <dos@dosowisko.net>"
+  ],
+  "description": "Angular directive for launching specified callback when user enters the konami code.",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "konami"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.2.19"
+  }
+}
