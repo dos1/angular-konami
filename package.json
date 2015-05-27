@@ -1,0 +1,23 @@
+{
+  "name": "angular-konami",
+  "version": "0.2.0",
+  "description": "Angular directive for launching specified callback when user enters the konami code.",
+  "main": "angular-konami.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dos1/angular-konami.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "konami"
+  ],
+  "author": "Sebastian Krzyszkowiak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dos1/angular-konami/issues"
+  }
+}
